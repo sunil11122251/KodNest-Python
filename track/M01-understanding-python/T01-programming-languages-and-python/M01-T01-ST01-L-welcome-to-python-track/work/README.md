@@ -31,4 +31,3 @@ In this track, I will learn:
 - Data Structures and Algorithms
 - Object-Oriented Programming
 - Web Development with Python
-- Data Science and Machine Learning
